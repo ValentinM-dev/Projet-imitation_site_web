@@ -1,0 +1,45 @@
+.maintitle {
+    text-align: center;
+
+}
+
+.mainparagraph {
+    text-align: center;
+    width: 50%;
+    position: unset;
+
+}
+
+.stacy_staging {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.endless_elainek {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.zen_socialite {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cats_punta {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.site {
+    text-decoration: none;
+    font-size: smaller;
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+p {
+    font-size: 16px;
+    width: 770px;
+}
